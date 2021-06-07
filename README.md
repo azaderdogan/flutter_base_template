@@ -1,4 +1,4 @@
-# celebi_app
+# Flutter Base Template
 
 A new Flutter project.
 

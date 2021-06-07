@@ -1,5 +1,5 @@
 //
-import 'package:celebi_app/views/authantication/login/view/login.dart';
+import 'views/authantication/login/view/login.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
